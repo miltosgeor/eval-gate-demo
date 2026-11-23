@@ -1,0 +1,7 @@
+[
+  {"input": "Filing deadline is tomorrow", "expected": "urgent"},
+  {"input": "Can we move lunch?", "expected": "normal"},
+  {"input": "URGENT: client call", "expected": "urgent"},
+  {"input": "Monthly newsletter", "expected": "normal"},
+  {"input": "Court hearing moved to today", "expected": "urgent"}
+]
